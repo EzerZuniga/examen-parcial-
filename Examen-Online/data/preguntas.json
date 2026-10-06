@@ -1,0 +1,57 @@
+[
+  {
+    "pregunta": "\u00bfCu\u00e1l es la capital del Per\u00fa?",
+    "opciones": ["Cusco", "Lima", "Arequipa", "Trujillo"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfQu\u00e9 protocolo se utiliza para transferir archivos de forma segura a trav\u00e9s de una red?",
+    "opciones": ["HTTP", "FTP", "SFTP", "UDP"],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "En programaci\u00f3n orientada a objetos, \u00bfc\u00f3mo se llama el mecanismo que oculta los detalles internos de un objeto?",
+    "opciones": ["Herencia", "Encapsulamiento", "Polimorfismo", "Abstracci\u00f3n"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfQu\u00e9 estructura de datos opera bajo el principio LIFO (Last In, First Out)?",
+    "opciones": ["Cola (Queue)", "Pila (Stack)", "Lista enlazada", "\u00c1rbol binario"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "En bases de datos relacionales, \u00bfqu\u00e9 comando SQL elimina registros sin borrar la estructura de la tabla?",
+    "opciones": ["DROP", "DELETE", "ALTER", "REMOVE"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfCu\u00e1l es la complejidad temporal de QuickSort en el peor de los casos?",
+    "opciones": ["O(n)", "O(log n)", "O(n log n)", "O(n\u00b2)"],
+    "respuestaCorrecta": 3
+  },
+  {
+    "pregunta": "\u00bfQu\u00e9 metodolog\u00eda \u00e1gil utiliza un tablero con columnas como 'Por hacer', 'En progreso' y 'Hecho'?",
+    "opciones": ["Scrum", "Kanban", "Cascada (Waterfall)", "XP (Extreme Programming)"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfCu\u00e1l es la funci\u00f3n principal de la memoria cach\u00e9?",
+    "opciones": ["Almacenar datos permanentemente", "Reducir el tiempo de acceso a datos de la memoria principal", "Gestionar conexiones de red", "Realizar operaciones aritm\u00e9ticas"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfA qu\u00e9 capa del modelo OSI pertenece el protocolo IP?",
+    "opciones": ["Enlace de datos", "Transporte", "Red", "Aplicaci\u00f3n"],
+    "respuestaCorrecta": 2
+  },
+  {
+    "pregunta": "\u00bfCu\u00e1l de estas herramientas de control de versiones es distribuida?",
+    "opciones": ["SVN", "Git", "Mercurial", "Docker"],
+    "respuestaCorrecta": 1
+  },
+  {
+    "pregunta": "\u00bfCu\u00e1l de estos es un patr\u00f3n de dise\u00f1o creacional?",
+    "opciones": ["Observer", "Singleton", "Adapter", "MVC"],
+    "respuestaCorrecta": 1
+  }
+]

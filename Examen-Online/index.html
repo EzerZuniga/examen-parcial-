@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8" />
+    <title>Examen Online</title>
+    <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+
+    <div id="app">
+        <h1>Examen Online</h1>
+
+        <div id="login">
+            <input id="nombre" placeholder="Nombre" />
+            <input id="curso" placeholder="Curso" />
+            <button id="btnIniciar">Iniciar examen</button>
+        </div>
+
+        <div id="examen" class="hidden">
+            <h2 id="pregunta"></h2>
+            <div id="opciones"></div>
+            <button id="btnSiguiente">Siguiente</button>
+        </div>
+
+        <div id="resultado" class="hidden"></div>
+    </div>
+
+    <script type="module" src="js/app.js"></script>
+</body>
+</html>
